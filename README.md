@@ -17,6 +17,7 @@ Responsive: Works on desktops, tablets, and phones. 📱💻
 No Dependencies: Pure JS for easy deployment on GitHub Pages. 🌐
 Smart Errors: Friendly feedback for invalid inputs, displayed directly in the output. 🛡️
 
+## Watch the tool here https://mojtabafotohi.github.io/Bubble-Babble-Encoder-Decoder/
 🛠️ How to Use
 
 Input Field: Type plain text to encode or a Bubble Babble string (e.g., xigak-nyryk-hyryk-kyxex) to decode. 📝
